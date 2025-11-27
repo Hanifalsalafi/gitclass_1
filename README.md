@@ -1,3 +1,3 @@
-This my assignment repository
+This is my assignment repository
 Created By Hanif
 
